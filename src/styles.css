@@ -1,5 +1,12 @@
 .footer {
     height: 50px;
     text-align: center;
-    
+}
+
+.navbar {
+    background-color: rgb(53, 108, 246);
+}
+
+.header {
+    background-image: linear-gradient(to bottom, rgb(53, 108, 246), white);
 }
