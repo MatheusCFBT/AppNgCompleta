@@ -1,11 +1,17 @@
 # NgCommerce
 
-## About
-NgCommerce is a Single Page Application (SPA) developed using Angular and Bootstrap, focused on building a modern e-commerce platform. The project provides a solid foundation for developing online stores by leveraging best practices in web development.
+NgCommerce is a Single Page Application (SPA) for e-commerce developed with Angular and Bootstrap. The goal of this project is to provide a basic structure for creating online stores, utilizing best practices in Angular development.
 
-## Project Structure
-- src/: Contains the application's source code.
-- public/: Public assets like images and icons.
-- .vscode/: Visual Studio Code settings for the project.
-- Technologies Used: Angular, Typescript, Html, Css, Bootstrap, SPA.
+## Technologies Used
+
+- **Angular**: Main framework for building the application.
+- **Bootstrap**: For responsive design and UI components.
+- **TypeScript**: Programming language used for development.
+- **HTML/CSS**: For structuring and styling the pages.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MatheusCFBT/NgCommerce.git
 
